@@ -4,7 +4,7 @@ We propose a method of classifying fashion-wear based on apparels and their patt
 This helps in providing high-level features for clothing and can be used for matching user preferences. 
 We obtained an accuracy of 91% using Pretrained models. 
 We use Deepfashion  dataset that contain 10 differnt classes. T
-he Fashion  training set contains 3,000 examples, and the test set contains 300 examples. The dataset used is at [this repo](https://github.com/alexeygrigorev/clothing-dataset)
+he Fashion  training set contains 3,000 examples, and the test set contains 300 examples. The dataset used is at [this repo](https://github.com/alexeygrigorev/clothing-dataset-small)
 
 # Overview_on_DeepFashion_Dataset
 
