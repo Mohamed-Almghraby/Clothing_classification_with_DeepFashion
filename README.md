@@ -67,6 +67,7 @@ the first one is fast and cheap but no Data Augmentation , the second one high c
 5. so the Final  xception modela achive 90% on the testing data
 6. the MobileNet model achieves accuracy of `98%` on the Training and `8%` on the validation
 7. the MobileNet achievees 88% on the test data 
-8. 
+
+![Screenshot Capture - 2022-04-17 - 07-23-52](https://user-images.githubusercontent.com/47063541/163701674-d4ba1188-2dba-4f2e-b160-e066c8d2852a.png)
 
 
